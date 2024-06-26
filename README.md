@@ -121,7 +121,7 @@ Go to inbound rules and enable ICMPv4
 <img src="https://i.imgur.com/Ndwq0sD.png"/>
 </p>
 <p>
-Open the Server Mager and add roles and features
+Open the Server Manager and add roles and features
 </p>
 <br />
 
