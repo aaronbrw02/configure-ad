@@ -182,10 +182,6 @@ Create a new employee named “Jane Doe” with the username of “jane_admin”
 Add jane_admin to the “Domain Admins” Security Group
 </p>
 <br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 <p>
 Close the Remote Desktop connection and log back in as jane_admin
 </p>
